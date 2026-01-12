@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-11T14:32:26 IST" name="Default suite" finished-at="2026-01-11T14:33:04 IST" duration-ms="37466">
+    <groups>
+    </groups>
+    <test started-at="2026-01-11T14:32:26 IST" name="Default test" finished-at="2026-01-11T14:33:04 IST" duration-ms="37466">
+      <class name="tests.BrokenLinksImageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:26 IST" name="setUp" finished-at="2026-01-11T14:32:28 IST" duration-ms="1467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="ObjectsInitialization()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:28 IST" name="ObjectsInitialization" finished-at="2026-01-11T14:32:51 IST" duration-ms="23349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ObjectsInitialization -->
+        <test-method signature="isImageInValid()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:51 IST" name="isImageInValid" finished-at="2026-01-11T14:32:52 IST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isImageInValid -->
+        <test-method is-config="true" signature="resetTest()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:52 IST" name="resetTest" finished-at="2026-01-11T14:32:53 IST" duration-ms="1087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetTest -->
+        <test-method is-config="true" signature="ObjectsInitialization()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:53 IST" name="ObjectsInitialization" finished-at="2026-01-11T14:32:53 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ObjectsInitialization -->
+        <test-method signature="isImageValid()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:53 IST" name="isImageValid" finished-at="2026-01-11T14:32:53 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isImageValid -->
+        <test-method is-config="true" signature="resetTest()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:53 IST" name="resetTest" finished-at="2026-01-11T14:32:54 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetTest -->
+        <test-method is-config="true" signature="ObjectsInitialization()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:54 IST" name="ObjectsInitialization" finished-at="2026-01-11T14:32:55 IST" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ObjectsInitialization -->
+        <test-method signature="isInValidLinkDisplayed()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:55 IST" name="isInValidLinkDisplayed" finished-at="2026-01-11T14:32:59 IST" duration-ms="3269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isInValidLinkDisplayed -->
+        <test-method is-config="true" signature="resetTest()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:32:59 IST" name="resetTest" finished-at="2026-01-11T14:33:01 IST" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetTest -->
+        <test-method is-config="true" signature="ObjectsInitialization()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:33:01 IST" name="ObjectsInitialization" finished-at="2026-01-11T14:33:02 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ObjectsInitialization -->
+        <test-method signature="isValidLinkDisplayed()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:33:02 IST" name="isValidLinkDisplayed" finished-at="2026-01-11T14:33:03 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isValidLinkDisplayed -->
+        <test-method is-config="true" signature="resetTest()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:33:03 IST" name="resetTest" finished-at="2026-01-11T14:33:03 IST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BrokenLinksImageTest@179ece50]" started-at="2026-01-11T14:33:03 IST" name="tearDown" finished-at="2026-01-11T14:33:04 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.BrokenLinksImageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
