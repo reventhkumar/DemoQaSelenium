@@ -7,7 +7,6 @@ Selenium automation framework using **Page Object Model (POM)** for DemoQA websi
 - [🛠️ Tech Stack](#tech-stack)
 - [📁 Project Structure](#project-structure)
 - [🚀 Quick Start](#quick-start)
-- [✅ Test Cases](#test-cases)
 - [⚙️ Configuration](#configuration)
 - [🧰 Utilities](#utilities-included)
 - [📊 Reporting](#reporting)
@@ -66,7 +65,7 @@ implicit.wait=10
 explicit.wait=15
 headless=false
 ```
-## 🧰 Utilities Included
+## 🧰Utilities Included
 ```plaintext
 BasePage: Click, sendKeys, waits
 Listeners: TestNG logging
@@ -77,7 +76,7 @@ Import → Maven → Existing Maven Project
 Right-click → Maven → Update Project
 Run testng.xml as TestNG Suite
 ```
-##  📊 Reporting
+## 📊Reporting
 bash
 ```plaintext
 mvn clean test site:site
@@ -85,7 +84,7 @@ Surefire: target/surefire-reports/
 Maven Site: target/site/index.html
 ```
 
-## 🤝 Contributing
+## 🤝Contributing
 ```plaintext
 Fork repo
 Add pages: src/main/java/pages/
@@ -93,7 +92,7 @@ Add tests: src/test/java/tests/
 Submit PR
 ```
 
-##📄 License
+## 📄License
 ```plaintext
 MIT License - Free for QA portfolios.
 ```
