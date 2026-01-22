@@ -9,7 +9,7 @@ Selenium automation framework using **Page Object Model (POM)** for DemoQA websi
 - [🚀 Quick Start](#quick-start)
 - [✅ Test Cases](#test-cases)
 - [⚙️ Configuration](#configuration)
-- [🧰 Utilities](#utilities)
+- [🧰 Utilities](#utilities-included)
 - [📊 Reporting](#reporting)
 - [🤝 Contributing](#contributing)
 
