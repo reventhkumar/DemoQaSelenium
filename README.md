@@ -11,6 +11,7 @@ Selenium automation framework using **Page Object Model (POM)** for DemoQA websi
 - [🧰 Utilities](#utilities-included)
 - [📊 Reporting](#reporting)
 - [🤝 Contributing](#contributing)
+-  [📄License](#license)
 
 ## 🔧Features
 - ✅ **POM architecture** for DemoQA forms & elements
